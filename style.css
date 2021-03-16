@@ -12,6 +12,15 @@ a
 table
 {
     width: 980px;
-    margin: 0px;
-    background-color: rgb(, , );
+    margin: auto;
+    border-spacing: 0px;
+    background-color: rgb(80, 144, 80);
+}
+
+table tr td table
+{
+    width: 940;
+    margin: auto;
+    border: none;
+    background-color: white;
 }
